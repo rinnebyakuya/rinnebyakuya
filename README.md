@@ -1,4 +1,4 @@
-Hi! I am Ren and I working on improving my coding skills!
+#### Hi! I am Ren and I working on improving my coding skills!
 #
 ### Skills
 
