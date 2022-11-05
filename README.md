@@ -31,6 +31,9 @@
 <a href="https://github.com/rinnebyakuya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinnebyakuya&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-### Happy to meet you! &nbsp; !
-<a href="https://github.com/rinnebyakuya/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+### Happy to meet you! 
+
+<p align= "left"> 
+    <a href="https://github.com/rinnebyakuya/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/rinnebyakuya-profile-views"/></a>
+</p>
