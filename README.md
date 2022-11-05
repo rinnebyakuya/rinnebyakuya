@@ -6,7 +6,8 @@
 - https://vk.com/hanaisla
 - https://twitter.com/hana_isla
 - Email @azhakipov
-- Or msg me on soundcloud! https://soundcloud.com/rennine
+- Or msg me on soundcloud!
+- https://soundcloud.com/rennine
 
 <!---
 rinnebyakuya/rinnebyakuya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
