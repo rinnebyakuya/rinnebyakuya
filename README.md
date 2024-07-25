@@ -1,4 +1,4 @@
-# Hi! I am Askar Zhakypov and I working on improving my coding skills!
+# Hi! I am Askar Zhakypov and I am working on improving my coding skills!
 ### Skills
 
 <p align="left">
